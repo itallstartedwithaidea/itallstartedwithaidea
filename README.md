@@ -1,6 +1,6 @@
 # John Williams
 
-**Senior Paid Media Specialist @ [Seer Interactive](https://www.seerinteractive.com)** · **Founder, [googleadsagent.ai](https://googleadsagent.ai)**
+**Team Lead, Paid Media @ [Seer Interactive](https://www.seerinteractive.com)** · **Founder, [googleadsagent.ai](https://googleadsagent.ai)**
 
 15+ years managing enterprise digital advertising ($48M+ annual spend) across Google, Meta, Microsoft, Amazon.  
 Speaker: **Hero Conf 2025** — AI Applications in Advertising · Published: **Search Engine Land**  
