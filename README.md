@@ -2,8 +2,8 @@
 
 **Team Lead, Paid Media @ [Seer Interactive](https://www.seerinteractive.com)** · **Founder, [googleadsagent.ai](https://googleadsagent.ai)**
 
-15+ years managing enterprise digital advertising ($48M+ annual spend) across Google, Meta, Microsoft, Amazon.  
-Speaker: **Hero Conf 2025** — AI Applications in Advertising · Published: **Search Engine Land**  
+15+ years managing enterprise digital advertising ($350M+ managed spend) across Google, Meta, Microsoft, Amazon.  
+Speaker: **Hero Conf 2025 + 2026** — AI Applications in Advertising · Published: **Search Engine Land**  
 Previously: NortonLifeLock · Gen Digital · Farmers Insurance
 
 [![googleadsagent.ai](https://img.shields.io/badge/🤖_googleadsagent.ai-Visit_Site-blue?style=for-the-badge)](https://googleadsagent.ai)
@@ -122,7 +122,7 @@ Ad Platforms            Google · Meta · Microsoft · Amazon · Reddit · Linke
 
 | | |
 |---|---|
-| **$48M+** | Annual ad spend managed across enterprise accounts |
+| **$350M+** | Total ad spend managed across enterprise accounts |
 | **15+ years** | Digital advertising: Google, Meta, Microsoft, Amazon |
 | **48 repos** | Open-source advertising tools, scripts, and AI agents |
 | **14 platforms** | Connected via MCP servers |
@@ -136,7 +136,7 @@ Ad Platforms            Google · Meta · Microsoft · Amazon · Reddit · Linke
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itallstartedwithaidea&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=itallstartedwithaidea&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
