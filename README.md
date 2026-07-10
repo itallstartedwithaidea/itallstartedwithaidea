@@ -1,10 +1,10 @@
 # John Williams
 
-**Team Lead, Paid Media @ [Seer Interactive](https://www.seerinteractive.com)** · **Founder, [googleadsagent.ai](https://googleadsagent.ai)**
+**Team Lead, Paid Media @ [Seer Interactive](https://www.seerinteractive.com)** · **Founder, [ahmeego.com](https://ahmeego.com)**
 
 15+ years managing enterprise digital advertising ($350M+ managed spend) across Google, Meta, Microsoft, Amazon.  
 Speaker: **Hero Conf 2025 + 2026** — AI Applications in Advertising · Published: **Search Engine Land**  
-Previously: NortonLifeLock · Gen Digital · Farmers Insurance
+Previously: NortonLifeLock · Gen Digital · Farmers Insurance · Saatva · Brainlabs · Prudential
 
 [![googleadsagent.ai](https://img.shields.io/badge/🤖_googleadsagent.ai-Visit_Site-blue?style=for-the-badge)](https://googleadsagent.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johnmichaelwilliams)
