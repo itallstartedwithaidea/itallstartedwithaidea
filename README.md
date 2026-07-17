@@ -1,6 +1,8 @@
 # John Williams — AI-Powered Advertising, Paid Media & PPC Automation
 
-**Team Lead, Paid Media @ [Seer Interactive](https://www.seerinteractive.com/people/team/john-williams)** · **Founder, [ahmeego.com](https://ahmeego.com)** · **Creator, [googleadsagent.ai](https://googleadsagent.ai)** · **[It All Started With A Idea](https://www.itallstartedwithaidea.com)**
+<img src="assets/john-williams.png" align="right" width="170" alt="John Williams — Founder, ahmeego.com & It All Started With A Idea" />
+
+**Founder & Director, [ahmeego.com](https://ahmeego.com) + [It All Started With A Idea](https://www.itallstartedwithaidea.com)** · **Creator, [googleadsagent.ai](https://googleadsagent.ai)** · **Thoughtful Paid Media Leader**
 
 15+ years managing enterprise digital advertising — **$350M+ in managed ad spend** across Google Ads, Meta, Microsoft Advertising, and Amazon Ads.
 
@@ -21,7 +23,11 @@
 
 ## Who I Am
 
+<img src="assets/buddy-demo.gif" align="right" width="230" alt="Buddy by Ahmeego — live demo: AI Google Ads copywriting, tools, and creative validation" />
+
 I'm a paid media practitioner who builds the AI tools I wish existed when I was in the trenches — optimizing bids, auditing accounts, debugging conversion tracking, and reporting on millions in monthly spend. Everything here is **open-source, production-tested, and built for the people managing real campaigns with real budgets**.
+
+**That's Buddy on the right** ➡️ — my AI advertising agent, live in action: writing grounded Google Ads copy, auditing analytics, validating creative. Buddy powers [ahmeego.com](https://ahmeego.com) and the free tools at [googleadsagent.ai](https://googleadsagent.ai), and ships as an [iOS/Android app](https://ahmeego.com), a [Claude Code plugin](https://github.com/itallstartedwithaidea/claude-googleadsagent), and a [Gemini CLI extension](https://github.com/itallstartedwithaidea/google-ads-gemini-extension).
 
 My work lives across three connected platforms:
 
