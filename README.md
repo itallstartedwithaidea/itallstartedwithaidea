@@ -1,7 +1,5 @@
 # John Williams — AI-Powered Advertising, Paid Media & PPC Automation
 
-<img src="assets/john-williams.png" align="right" width="170" alt="John Williams — Founder, ahmeego.com & It All Started With A Idea" />
-
 **Founder & Director, [ahmeego.com](https://ahmeego.com) + [It All Started With A Idea](https://www.itallstartedwithaidea.com)** · **Creator, [googleadsagent.ai](https://googleadsagent.ai)** · **Thoughtful Paid Media Leader**
 
 15+ years managing enterprise digital advertising — **$350M+ in managed ad spend** across Google Ads, Meta, Microsoft Advertising, and Amazon Ads.
@@ -36,10 +34,14 @@ A few things that shape how I work:
 
 Buddy powers [ahmeego.com](https://ahmeego.com) and the free tools at [googleadsagent.ai](https://googleadsagent.ai), and ships as an [iOS/Android app](https://ahmeego.com), a [Claude Code plugin](https://github.com/itallstartedwithaidea/claude-googleadsagent), and a [Gemini CLI extension](https://github.com/itallstartedwithaidea/google-ads-gemini-extension). Watch the flow, left to right:
 
-| 1 · Ask in plain English | 2 · Grounded in live data | 3 · Copy + the "why" | 4 · Validate creative |
-|:---:|:---:|:---:|:---:|
-| <img src="assets/buddy-step1.gif" width="200" alt="Ask Buddy to write Google Ads headlines and descriptions" /> | <img src="assets/buddy-step2.gif" width="200" alt="Buddy writes character-limit-compliant headlines grounded in live SERP data" /> | <img src="assets/buddy-step3.gif" width="200" alt="Buddy explains the strategic reasoning behind every line of ad copy" /> | <img src="assets/buddy-step4.gif" width="200" alt="Creative Validator checks ad assets against platform specs" /> |
-| You type a request — "Write 3 Google Ads headlines for a Phoenix garage door repair company" | Buddy pulls live SERP data and writes copy inside Google's character limits | Every angle is explained — search intent, Quality Score, policy gotchas | Upload an asset and validate it across 50+ ad platforms |
+<p align="center">
+  <img src="assets/buddy-step1.gif" width="24%" alt="Step 1 — Ask Buddy in plain English to write Google Ads headlines and descriptions" />
+  <img src="assets/buddy-step2.gif" width="24%" alt="Step 2 — Buddy writes character-limit-compliant headlines grounded in live SERP data" />
+  <img src="assets/buddy-step3.gif" width="24%" alt="Step 3 — Buddy explains the strategic reasoning behind every line of ad copy" />
+  <img src="assets/buddy-step4.gif" width="24%" alt="Step 4 — Creative Validator checks ad assets against platform specs" />
+</p>
+
+<p align="center"><b>1 · Ask in plain English</b> → <b>2 · Grounded in live data</b> → <b>3 · Copy + the "why"</b> → <b>4 · Validate creative</b></p>
 
 My work lives across three connected platforms:
 
