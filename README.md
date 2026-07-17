@@ -52,6 +52,7 @@ My work lives across three connected platforms:
 
 | Project | What It Does |
 |---------|-------------|
+| [**google-ads-mcp**](https://github.com/itallstartedwithaidea/google-ads-mcp) | Python MCP server with 29 Google Ads tools — works with Claude Code, Claude Desktop, Cursor, and any MCP client |
 | [**claude-googleadsagent**](https://github.com/itallstartedwithaidea/claude-googleadsagent) | The most comprehensive Google Ads plugin for Claude Code — Buddy + 6 sub-agents, 2 MCP servers, 77 skills, safety hooks |
 | [**google-ads-gemini-extension**](https://github.com/itallstartedwithaidea/google-ads-gemini-extension) | Gemini CLI extension for Google Ads — campaign analysis, auditing, optimization |
 | [**gemini-cli-googleadsagent**](https://github.com/itallstartedwithaidea/gemini-cli-googleadsagent) | Google Ads commands & AI agent skills for Gemini CLI — GAQL queries, 7-area audits |
@@ -163,7 +164,7 @@ Ad Platforms            Google · Meta · Microsoft · Amazon · Reddit · Linke
 |---|---|
 | **$350M+** | Total ad spend managed across enterprise accounts |
 | **15+ years** | Digital advertising: Google, Meta, Microsoft, Amazon |
-| **56 public repos** | Open-source advertising tools, scripts, and AI agents |
+| **57 public repos** | Open-source advertising tools, scripts, and AI agents |
 | **73+ skills** | AI agent skills for Google Ads management |
 | **14 platforms** | Connected via MCP servers |
 | **28 actions** | Google Ads API agent capabilities |
