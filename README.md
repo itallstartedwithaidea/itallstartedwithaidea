@@ -23,11 +23,23 @@
 
 ## Who I Am
 
-<img src="assets/buddy-demo.gif" align="right" width="230" alt="Buddy by Ahmeego — live demo: AI Google Ads copywriting, tools, and creative validation" />
+I'm a founder and paid media leader who spent 15+ years in the trenches of enterprise advertising — optimizing bids, auditing accounts, debugging conversion tracking, and reporting on millions in monthly spend for brands ranging from local shops to household names. Now I build the AI tools I wish had existed the whole time. Everything here is **open-source, production-tested, and built for the people managing real campaigns with real budgets**.
 
-I'm a paid media practitioner who builds the AI tools I wish existed when I was in the trenches — optimizing bids, auditing accounts, debugging conversion tracking, and reporting on millions in monthly spend. Everything here is **open-source, production-tested, and built for the people managing real campaigns with real budgets**.
+A few things that shape how I work:
 
-**That's Buddy on the right** ➡️ — my AI advertising agent, live in action: writing grounded Google Ads copy, auditing analytics, validating creative. Buddy powers [ahmeego.com](https://ahmeego.com) and the free tools at [googleadsagent.ai](https://googleadsagent.ai), and ships as an [iOS/Android app](https://ahmeego.com), a [Claude Code plugin](https://github.com/itallstartedwithaidea/claude-googleadsagent), and a [Gemini CLI extension](https://github.com/itallstartedwithaidea/google-ads-gemini-extension).
+- **Practitioner first.** Every tool in these repos came from a real problem in a real account — nothing here is theoretical.
+- **Trust and empathy over hype.** From local businesses to Fortune 500s, my strategies start with understanding the audience, not chasing the latest tactic.
+- **Teacher at heart.** I speak at Hero Conf, write for Search Engine Land, publish a free AI agents course, and coach high school football in Arizona — same philosophy everywhere: show up, do the reps, help others level up.
+- **Builder by obsession.** From a 26M-parameter trainable advertising AI to one-file browser games, I ship things people can actually use today.
+
+### Meet Buddy — My AI Advertising Agent, Live in Action
+
+Buddy powers [ahmeego.com](https://ahmeego.com) and the free tools at [googleadsagent.ai](https://googleadsagent.ai), and ships as an [iOS/Android app](https://ahmeego.com), a [Claude Code plugin](https://github.com/itallstartedwithaidea/claude-googleadsagent), and a [Gemini CLI extension](https://github.com/itallstartedwithaidea/google-ads-gemini-extension). Watch the flow, left to right:
+
+| 1 · Ask in plain English | 2 · Grounded in live data | 3 · Copy + the "why" | 4 · Validate creative |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/buddy-step1.gif" width="200" alt="Ask Buddy to write Google Ads headlines and descriptions" /> | <img src="assets/buddy-step2.gif" width="200" alt="Buddy writes character-limit-compliant headlines grounded in live SERP data" /> | <img src="assets/buddy-step3.gif" width="200" alt="Buddy explains the strategic reasoning behind every line of ad copy" /> | <img src="assets/buddy-step4.gif" width="200" alt="Creative Validator checks ad assets against platform specs" /> |
+| You type a request — "Write 3 Google Ads headlines for a Phoenix garage door repair company" | Buddy pulls live SERP data and writes copy inside Google's character limits | Every angle is explained — search intent, Quality Score, policy gotchas | Upload an asset and validate it across 50+ ad platforms |
 
 My work lives across three connected platforms:
 
